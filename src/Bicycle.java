@@ -1,5 +1,4 @@
 public class Bicycle extends Transport implements ServiceStation {
-
     public Bicycle(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
     }

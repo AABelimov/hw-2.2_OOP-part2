@@ -1,5 +1,4 @@
 public class Truck extends Transport implements ServiceStation {
-
     public Truck(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
     }
